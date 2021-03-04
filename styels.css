@@ -1,0 +1,279 @@
+
+.navbar-brand img{ width: 20%;
+margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 48px;
+}
+
+.container-fluid{ margin-top: -10px;
+    opacity:0.75;
+    background-color:#f9e547
+}
+
+.navbar-nav{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 630px;
+}
+
+.navbar-brand1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 630px;
+}
+
+.navbar-brand2{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 630px;
+}
+
+
+
+/* search bar focus */
+.search-container *:focus {
+    background: black;
+    color: white;
+    outline: 0;
+}
+
+/* search bar container */
+.search-container {
+    display: table;
+    position: relative;
+    width: 51px;
+}
+
+/* search icon button */
+.search-icon-btn {
+    border: 1px solid transparent;
+    display: table-cell;
+    height: 50px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    width: 50px;
+    z-index: 2;
+}
+
+/* search bar input container */
+.search-input {
+    position: absolute;
+    left: 0;
+    z-index: 1;
+}
+
+/* search bar input */
+.search-input input.search-bar {
+    border: 1px solid darkolivegreen;
+    height: 51px;
+    padding: 0px;
+    width: 50px;
+}
+
+.search-input input.search-bar:focus {
+    padding-left: 60px;
+    padding-right: 10px;
+    width: 20px;
+}
+
+
+
+
+
+/* hover on search bar container */
+.search-container:hover > .search-input input.search-bar {
+    padding-left: 60px;
+    padding-right: 10px;
+    width: 200px;
+
+}
+.fa-search{
+    font-size: 45px;
+    position: center;
+    top: -2px;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+.text{
+margin: 20px;
+    margin-left: 65px;
+font-size: 30px;
+}
+
+.text1{
+    margin: -20px;
+    margin-left: 65px;
+    font-size: 30px;
+}
+
+.image-text{
+    margin: 20px;
+    margin-left: 33px;
+    font-size: 20px;
+}
+
+.image-description{
+    margin: 5px;
+    margin-left: 1px;
+    font-size: 13px;
+}
+
+.info{
+    margin: 5px;
+    margin-left: 1px;
+    font-size: 13px;
+    color: blue;
+}
+
+.nav-item1{
+    margin: 20px;
+    margin-left: -330px;
+    margin-right: -50px;
+    font-size: 20px;
+}
+
+
+*{
+   box-sizing: border-box;
+}
+.images {
+  float:left;
+  width:33.33%;
+  padding:65px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;}
+
+.images1{
+    float:left;
+    width:33.33%;
+    padding:65px;
+
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+
+.images2{
+    float:left;
+    width:33.33%;
+    padding:65px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+
+.images3{
+    float:left;
+    width:33.33%;
+    padding:65px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+
+.images4{
+    float:left;
+    width:33.33%;
+    padding:65px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+
+.images5{
+    float:left;
+    width:33.33%;
+    padding:65px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+.images6{
+    float:left;
+    width:33.33%;
+    padding:65px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+
+.images7{
+    float:left;
+    width:33.33%;
+    padding:65px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+
+.images8{
+    float:left;
+    width:33.33%;
+    padding:65px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+
+@media screen and (max-width: 500px) {
+    .images {
+        width: 100%;
+    }
+
+    @media screen and (max-width: 500px) {
+        .images1 {
+    
+            width: 100%;
+        }
+
+        @media screen and (max-width: 500px) {
+            .images2 {
+                width: 100%;
+            }
+
+            @media screen and (max-width: 500px) {
+                .images3 {
+                    width: 100%;
+                }
+
+                @media screen and (max-width: 500px) {
+                    .images4 {
+                        width: 100%;
+                    }
+
+                    @media screen and (max-width: 500px) {
+                        .images5 {
+                            width: 100%;
+                        }
+
+                        @media screen and (max-width: 500px) {
+                            .images6 {
+                                width: 100%;
+                            }
+
+                            @media screen and (max-width: 500px) {
+                                .images7 {
+                                    width: 100%;
+                                }
+
+                                @media screen and (max-width: 500px) {
+                                    .images8 {
+                                        width: 100%;
+                                    }
