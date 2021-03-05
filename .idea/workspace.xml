@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="644c5836-a35a-4fb4-bd8b-bf71fd995c01" name="Default Changelist" comment="" />
+    <list default="true" id="644c5836-a35a-4fb4-bd8b-bf71fd995c01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +75,7 @@
       <workItem from="1614851627813" duration="1771000" />
       <workItem from="1614869148272" duration="331000" />
       <workItem from="1614870081636" duration="426000" />
-      <workItem from="1614870969581" duration="921000" />
+      <workItem from="1614870969581" duration="1757000" />
     </task>
     <task id="LOCAL-00001" summary="Lavet af Mohammed og Human">
       <created>1614871076008</created>
@@ -74,15 +91,52 @@
       <option name="project" value="LOCAL" />
       <updated>1614936944423</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lavet af Mohammed og Human">
+      <created>1614937386261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614937386261</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Lavet af Mohammed og Human" />
     <option name="LAST_COMMIT_MESSAGE" value="Lavet af Mohammed og Human" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="178" key="#HTTP_Proxy" timestamp="1614594360988">
@@ -93,17 +147,17 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="354" y="135" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1614846814917" />
-    <state x="289" y="34" key="CommitChangelistDialog2" timestamp="1614936944154">
+    <state x="289" y="34" key="CommitChangelistDialog2" timestamp="1614937386081">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="289" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1614936944154" />
+    <state x="289" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1614937386081" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1614766109571">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1614766109571" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614937296453">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1614938182122">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614937296452" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614938182122" />
   </component>
 </project>
